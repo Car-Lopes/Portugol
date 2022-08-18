@@ -1,5 +1,5 @@
-#Portugol Desafio de Projetos GIT/GITHUB da DIO
+#Desafio de Projetos GIT/GITHUB da DIO - Meu Primeiro Repors
 
-##Código inscritos em portugol 
+##Meu Currículo em HTML - Em Construção
 
-##Programas
+
